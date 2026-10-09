@@ -2,11 +2,12 @@
 ! Description: Public Nitter / Shitter front-end instances, collected automatically from instance wikis, status pages, gists, issues and pull requests. Append-only: entries are never removed.
 ! Syntax: AdGuard DNS filtering rules (Adblock-style)
 ! Expires: 1 day
-! Last modified: 2026-10-09T02:41:17.579Z
-! Entries: 88
+! Last modified: 2026-10-09T03:49:39.511Z
+! Entries: 96
 ! New this run: 0
 !
 ||bitter.st^
+||lightbrd.com^
 ||miningtcup.me^
 ||nitt.tr^
 ||nitter.10qt.net^
@@ -82,7 +83,10 @@
 ||nitter.xitter.cc^
 ||nitter.zebes.info^
 ||nitter6.kabii.moe^
+||nittertwitter.com^
+||noatabird.site^
 ||nuku.trabun.org^
+||read.whatever.social^
 ||shi.meowing.de^
 ||shitter.thepixora.com^
 ||tw.eir-nya.gay^
@@ -90,6 +94,10 @@
 ||twiiit.com^
 ||twit.0r.cx^
 ||twitt.re^
+||twitter.censors.us^
+||unofficialbird.com^
+||vanlett-cn.com^
+||vanlett.com^
 ||x.n0g.xyz^
 ||xcancel.com^
 ||xcopy.uk^
