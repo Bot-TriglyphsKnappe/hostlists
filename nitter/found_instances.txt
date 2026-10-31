@@ -2,11 +2,12 @@
 ! Description: Public Nitter / Shitter front-end instances, collected automatically from instance wikis, status pages, gists, issues and pull requests. Append-only: entries are never removed.
 ! Syntax: AdGuard DNS filtering rules (Adblock-style)
 ! Expires: 1 day
-! Last modified: 2026-10-09T03:49:39.511Z
-! Entries: 96
-! New this run: 0
+! Last modified: 2026-10-31T01:23:38.458Z
+! Entries: 108
+! New this run: 12
 !
 ||bitter.st^
+||goyimx.com^
 ||lightbrd.com^
 ||miningtcup.me^
 ||nitt.tr^
@@ -42,6 +43,7 @@
 ||nitter.fullex.fr^
 ||nitter.gl-pillet.fr^
 ||nitter.gorb.lol^
+||nitter.gq^
 ||nitter.grimneko.de^
 ||nitter.himiko.cloud^
 ||nitter.inpt.fr^
@@ -54,8 +56,10 @@
 ||nitter.lunar.icu^
 ||nitter.mastodont.cat^
 ||nitter.meowing.monster^
+||nitter.mie.foundation^
 ||nitter.miningtcup.me^
 ||nitter.mint.lgbt^
+||nitter.mizuki.st^
 ||nitter.moezx.cc^
 ||nitter.moomoo.me^
 ||nitter.my.id^
@@ -70,6 +74,7 @@
 ||nitter.privacydev.net^
 ||nitter.privacyredirect.com^
 ||nitter.pussthecat.org^
+||nitter.r4fo.com^
 ||nitter.schleuss.online^
 ||nitter.shinonomelaboratory.com^
 ||nitter.teamqq.de^
@@ -80,6 +85,7 @@
 ||nitter.vxempire.xyz^
 ||nitter.weaponizedhumiliation.com^
 ||nitter.wisq.net^
+||nitter.woodland.cafe^
 ||nitter.xitter.cc^
 ||nitter.zebes.info^
 ||nitter6.kabii.moe^
@@ -89,6 +95,9 @@
 ||read.whatever.social^
 ||shi.meowing.de^
 ||shitter.thepixora.com^
+||teapaw.org^
+||teapawt.net^
+||teapawt.org^
 ||tw.eir-nya.gay^
 ||tweet.lambda.dance^
 ||twiiit.com^
@@ -101,6 +110,9 @@
 ||x.n0g.xyz^
 ||xcancel.com^
 ||xcopy.uk^
+||xitter.cf^
+||xitter.gq^
+||xnologin.com^
 ||xxcancel.com^
 !
 ! ---------------------------------------------------------------
